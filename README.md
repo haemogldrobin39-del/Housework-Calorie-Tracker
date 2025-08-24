@@ -1,6 +1,6 @@
 # Household Work Calorie Calculator
 
-I created this project to help my mother and support my family as part of an attachment program in my course. The goal of this tool is to allow her (and others) to **track the calories burned during household chores**.
+I created this project to help mothers  as part of an attachment program in my course. The goal of this tool is to allow her (and others) to **track the calories burned during household chores**.
 
 Unlike other online tools, this website **does not automatically calculate calorie values**. Instead, it allows users to **tick off the tasks they’ve completed**, making it simple, interactive, and easy to use.
 
